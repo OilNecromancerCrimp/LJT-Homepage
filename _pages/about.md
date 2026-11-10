@@ -9,7 +9,7 @@ redirect_from:
 
 ## Welcome
 
-I am Junteng Liu, a first-year PhD candidate at the [HKUST NLP Group](https://hkust.edu.hk/), supervised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024.
+I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024.
 
 My research focuses on natural language processing and machine learning. My specific research interests include:
 
@@ -23,7 +23,7 @@ My research focuses on natural language processing and machine learning. My spec
 
 **Ph.D. in Computer Science (2024–Present)**  
 HKUST NLP Group  
-Supervisor: [Professor Junxian He](https://github.com/FlexiblePi)
+Supervisor: Professor Junxian He
 
 Professor Junxian He also previously advised me during my undergraduate studies at SJTU.
 
@@ -86,6 +86,6 @@ A complete list is also available on the [Publications page]({% link _pages/publ
 ## Contact Information
 
 - **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
-- **GitHub:** [github.com/Vicent0205](https://github.com/Vicent0205)
-- **Google Scholar:** [Junteng Liu’s Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+- **GitHub:** [https://github.com/Vicent0205](https://github.com/Vicent0205)
+- **Google Scholar:** [Google Scholar profile for Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
 - **X (Twitter):** [@junteng88716710](https://x.com/junteng88716710)
